@@ -31,3 +31,19 @@ En el objeto literal la palabra reservada this hace referencia a la variable.
 Es la forma de solicitar que se devuelvan las propiedades y valores en nuestros objetos (iterar)
 
 
+# ARRAYS
+Se utilizan para agrupar informacion, considerar que todo elemento dentro de un arreglo tiene algo llamado posicion o indice que empieza desde 0
+
+## Formas de Programacion
+Existen 2 formas de programar:
+1) Forma Imperativa: te explica paso a paso lo que se realiza
+2) Forma Declarativa: te muestra el resultado final sin explicaciones
+
+## Mutabilidad e Inmutabilidad
+La mutabilidad modifica el estado original y la inmutabilidad crea una copia, y no modifica el estado original
+
+## Funciones
+Son tipos de dato qeu nos ayuda a englobar la logica
+
+## Parametros
+Sirve para usar la informacion dinamicamente dentro de una funcion
