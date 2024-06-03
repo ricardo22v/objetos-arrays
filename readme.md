@@ -3,7 +3,6 @@
 ## Creacion de Objetos
 Uno de los motivos de la creacion de objetos en Javascript es que nos permita agrupar los datos que sean pertinentes a las variables!
 
-
 ## Acceder a los Objetos
 Para acceder a los datos o valores del objeto se debe usar el nombre de la propiedad + punto y el valor: (person.etc)
 
@@ -30,3 +29,5 @@ En el objeto literal la palabra reservada this hace referencia a la variable.
 
 ## Recorrer
 Es la forma de solicitar que se devuelvan las propiedades y valores en nuestros objetos (iterar)
+
+
